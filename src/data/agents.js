@@ -235,4 +235,23 @@ export const SEED_AGENTS = [
     featured: false,
     logo: '🧠',
   },
+  {
+    "id": "orkas",
+    "name": "Orkas",
+    "tagline": "Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.",
+    "description": "Orkas is an open-source, local-first desktop AI workforce. A Commander turns goals into executable plans and coordinates specialist agents in parallel or sequence through one chat. It supports research, coding, data analysis and documents. The core app is free; model usage and optional services may cost extra.",
+    "category": "productivity",
+    "creator": "Orkas-AI",
+    "techStack": [
+      "Electron",
+      "TypeScript"
+    ],
+    "github": "https://github.com/Orkas-AI/Orkas",
+    "website": "https://orkas.ai/?source=dir_agentboard",
+    "stars": 2153,
+    "upvotes": 0,
+    "featured": false,
+    "logo": "🤖"
+  },
+
 ]
