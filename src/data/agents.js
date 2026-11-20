@@ -12,6 +12,25 @@ export const CATEGORIES = [
 
 export const SEED_AGENTS = [
   {
+    "id": "fairvalid",
+    "name": "FairValid MCP",
+    "tagline": "Verify email addresses and find business leads through authenticated MCP tools",
+    "description": "Official hosted MCP for email verification and FairMatch lead search and unlocks; an account with OAuth or an API key is required, with 300 shared free credits each month and optional paid credits; the hosted service is proprietary and the public integration package is MIT-licensed. Endpoint: https://mcp.fairvalid.com/mcp. Setup: https://fairvalid.com/en/help/mcp.",
+    "category": "dev-tools",
+    "creator": "FairValid",
+    "techStack": [
+      "MCP",
+      "Streamable HTTP",
+      "OAuth"
+    ],
+    "github": "https://github.com/moonlitnayeem/fairvalid-ai",
+    "website": "https://fairvalid.com/en/help/mcp",
+    "stars": 0,
+    "upvotes": 0,
+    "featured": false,
+    "logo": "🧩"
+  },
+  {
     id: 'autogpt',
     name: 'AutoGPT',
     tagline: 'An autonomous AI agent that chains LLM calls to accomplish complex goals',
